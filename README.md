@@ -1,9 +1,9 @@
 <div align="center">
-  
+
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);抗抗清同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -12,16 +12,12 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="http://www.kangkangqing.top"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://space.bilibili.com/355686821"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=KangKangQing&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
+
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
@@ -42,7 +38,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
-<p>&emsp;&emsp;大家好，我是小孙同学。</p>
+<p>&emsp;&emsp;大家好，我是抗抗清同学。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
@@ -52,7 +48,7 @@
 
 <tr>
 <td>
-  
+
 ### 🏢 Work Experience
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
@@ -76,7 +72,7 @@
 
 <!-- 近期博客 -->
 ### 📃 Recent Blog
-  
+
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
@@ -186,7 +182,7 @@ Mac                      7 hrs 24 mins       ███████████�
 
  Last Updated on 16/09/2023 01:10:22 UTC
 <!--END_SECTION:waka-->
-  
+
 </td></tr>
 </table>
 
@@ -234,7 +230,7 @@ mindmap
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
-  
+
 🧠 计划学习
 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
@@ -300,10 +296,10 @@ mindmap
 
 <!-- Github-Stats-Terminal 终端风格信息 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/><br>
-  
+
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
-  
+
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
@@ -316,7 +312,7 @@ mindmap
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/sun0225SUN/Student-Data-Vision">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
-  
+
 <!-- Wakatime Graph-->
 <table>
   <tr>
