@@ -15,15 +15,15 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+%5B%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%5D!;%F0%9F%9A%80+%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E5%AD%A6%E7%94%9F+%2F+%E5%BC%80%E6%BA%90%E7%83%AD%E7%88%B1%E8%80%85!;%E8%B7%AF%E8%99%BD%E8%BF%9C%E8%A1%8C%E5%88%99%E5%B0%86%E8%87%B3+%F0%9F%9A%B6%EF%B8%8F;%E4%BA%8B%E8%99%BD%E9%9A%BE%E5%81%9A%E5%88%99%E5%BF%85%E6%88%90+%F0%9F%8F%80%EF%B8%8F" alt="你好，我是[你的名字]! 全栈开发学生 / 开源爱好者! 路虽远行则将至 🛣️ 事虽难做则必成 🏀">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+%5B%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%5D!;%F0%9F%9A%80+%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E5%AD%A6%E7%94%9F+%2F+%E5%BC%80%E6%BA%90%E7%83%AD%E7%88%B1%E8%80%85!;%E8%B7%AF%E8%99%BD%E8%BF%9C%E8%A1%8C%E5%88%99%E5%B0%86%E8%87%B3+%F0%9F%9A%B6%EF%B8%8F;%E4%BA%8B%E8%99%BD%E9%9A%BE%E5%81%9A%E5%88%99%E5%BF%85%E6%88%90+%F0%9F%8F%80%EF%B8%8F" alt="你好，我是抗抗清! 全栈开发学生 / 开源爱好者! 路虽远行则将至 🛣️ 事虽难做则必成 🏀">
   </a>
 </h1>
 
 <p align="center">
-  <a href="[你的博客链接]">🌐 个人博客</a> • 
-  <a href="mailto:[你的邮箱]">📧 联系我</a> • 
-  <a href="[你的开源项目链接]">💻 开源项目</a> • 
-  <a href="[你的LinkedIn/Twitter等]">👥 社交网络</a>
+  <a href="http://kangkang.top">🌐 个人博客</a> • 
+  <a href="2903123788@qq.com">📧 联系我</a> • 
+  <a href="https://gitee.com/sunhaoqaqa/weblog.git">💻 开源项目</a> • 
+  <a href="2903123788">👥 社交网络QQ</a>
 </p>
 
 ---
